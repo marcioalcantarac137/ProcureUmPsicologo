@@ -29,8 +29,8 @@ a{
   font-size: 200%;
 }
 #pe{
-  width: 30%;
-  height: 30%;
+  width: 40%;
+  height: 40%;
 }
 #texto{
   font-size: 100%
@@ -38,4 +38,9 @@ a{
 #podal{
   background-color: cyan;
   margin-right: 20%;
+}
+button{
+  font-size: 20px;
+  width: 30%;
+  height: 60%;
 }
