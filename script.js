@@ -1,0 +1,3 @@
+function show() {
+  document.getElementById("texto").innerHTML = "É uma técnica que consiste em aplicar pressão em pontos dos pés que correspondem à órgãos, glândulas e sistemas do corpo. Visa estimular bem-estar e equilíbrio no indivíduo. A técnica natural se baseia na ideia de que os pés são uma espécie de 'mapa' do corpo, com mais de 7 mil terminações nervosas. Pressionando essas regiões, enviamos sinais ao sistema nervoso, ativando respostas que ajudam a relaxar, aliviar tensões e melhorar funções do organismo.";
+}
